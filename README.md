@@ -2,16 +2,15 @@
 Genera texto a partir de los decimales de π en busca de patrones y palabras.  
 
 ## 🚀 Instalación  
-1. Clona este repositorio o descarga los archivos:  
    ```bash
-   git clone https://github.com/devcodejss/PiSearch.git
+   git clone https://github.com/devcodejss/PiSearch
+   ```
+   ```bash
    cd PiSearch
    ```
-2. Instala las dependencias necesarias:  
    ```bash
    pip install -r requirements.txt
    ```
-3. Ejecuta el script:  
    ```bash
    python pi.py
    ```
