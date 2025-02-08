@@ -5,7 +5,7 @@ Genera texto a partir de los decimales de π en busca de patrones y palabras.
 1. Clona este repositorio o descarga los archivos:  
    ```bash
    git clone https://github.com/devcodejss/PiSearch.git
-   cd PiTextFinder
+   cd PiSearch
    ```
 2. Instala las dependencias necesarias:  
    ```bash
